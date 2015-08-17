@@ -1,0 +1,9 @@
+*/bin
+*/obj
+*.user-settings.xml
+
+# NativeScript files
+.tnsproject
+
+# Fitness files
+Groceries/README.md
